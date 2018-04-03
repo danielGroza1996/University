@@ -1,0 +1,6 @@
+OBJECTIVES:
+
++ Be able to setup the work environment for python
++ Execute simple instructions using the python interpreter
++ Write and execute a simple python program using python IDLE editor
++ Simple problems just to exercise read, write, conditional, loop, function
